@@ -44,5 +44,10 @@ authors:
     affiliation: NVIDIA
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+  - family-names: Espinoza
+    given-names: Ana V.
+    orcid: https://orcid.org/0000-0002-6292-073X
+    website: https://github.com/ana-v-espinoza
+    affiliation: UCAR | UCP | NSF Unidata
 title: "Cookbook Template"
 abstract: "A sample cookbook description."
