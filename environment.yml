@@ -31,3 +31,4 @@ dependencies:
   - geopy
   - adjustText
   - timezonefinder
+  - pytz
