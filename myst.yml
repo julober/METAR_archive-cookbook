@@ -26,6 +26,7 @@ project:
         - file: notebooks/Lonboard_Visualization.ipynb
         - file: notebooks/reanalysis_comparison.ipynb
         - file: notebooks/3_AI_Assistant.ipynb
+        - file: notebooks/Dataset_Restructuring.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
